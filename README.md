@@ -13,6 +13,4 @@
 
 ## Portfolio
 
-[![Portafolio](./images/portafolio.png)](https://dekklabs.github.io/portafolio/)
-
-<img src="./images/portafolio.png" width="350"/>
+<img src="./images/portafolio.png" width="150"/>
