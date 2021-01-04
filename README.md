@@ -13,4 +13,4 @@
 
 ## Portfolio
 
-[![Portafolio](./portfolio.svg)](https://dekklabs.github.io/portafolio/)
+[![Portafolio](./images/portafolio.png)](https://dekklabs.github.io/portafolio/)
