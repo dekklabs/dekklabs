@@ -4,9 +4,16 @@
         <rect x="203" width="39" height="28" fill="#c73a60" />
     </g>
     <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
-        text-rendering="geometricPrecision" font-size="100">
+		text-rendering="geometricPrecision" font-size="100">
+		<image
+			x="9"
+			y="7"
+			width="14"
+			height="14"
+			href="https://raw.githubusercontent.com/dekklabs/dekklabs/master/images/portafolio.png"
+		/>
         <a target="_blank" xlink:href="https://dekklabs.github.io/portafolio/">
-            <text fill="#fff" x="1100" y="175" transform="scale(.1)" textLength="1620">Visit my Portfolio</text>
+            <text fill="#fff" x="1100" y="175" transform="scale(.1)" textLength="1620">Visit my Portfolio Jonathan Jacobo</text>
         </a>
     </g>
 </svg>
