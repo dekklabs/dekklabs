@@ -1,8 +1,5 @@
 # Hi there, I'm Jonathan J.R 👋
 
-
-[![Twitter Follow](./follow.svg)](https://twitter.com/GrizzLYBearDekk)
-
 ## I'm a self-taught frontend developer
 
 - 🔭 I am currently working freelance
